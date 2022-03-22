@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1da413c-bf2a-4eb0-b7d6-fab49dc882ab": {
+      "ProjectGuid": "d1da413c-bf2a-4eb0-b7d6-fab49dc882ab",
+      "DisplayName": "DataAccess_Library",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

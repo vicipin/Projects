@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntitySet_up/1.0.0": {
+        "runtime": {
+          "EntitySet_up.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntitySet_up/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
